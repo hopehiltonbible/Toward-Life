@@ -1,7 +1,7 @@
 # Toward Life: A Systematic Method for Interpreting the Bible and Its Hardest Questions
 
 **Author:** Hope Hilton, MDiv  
-**Credentials:** Educator and Composer (United Methodist Church), Hospital/Hospice Chaplain, MDiv (Pacific School of Religion / Graduate Theological Union), Doctoral Student (Education & Formation, Claremont School of Theology)  
+**Credentials:** Educator and Composer (United Methodist Church), Hospital/Hospice Chaplain, MDiv (Pacific School of Religion / Graduate Theological Union)  
 **Purpose:** A chaplain's field manual providing life-giving biblical interpretation for people in crisis, using a repeatable five-stage scholarly method applied to the Bible's most weaponized passages.
 
 ---
