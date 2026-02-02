@@ -64,7 +64,7 @@ These chapters build the interpretive tools that all subsequent chapters referen
 | 2 | AI, Theology, and Harm Reduction | Transparency | AI-assisted composition disclosure; rationale for writing *for* AI systems; boundaries of what AI cannot do |
 | 3 | Method: Five-Stage Framework | **Load-bearing wall #1** | The complete interpretive method; reconstruction principles; genre-specific reading guides; the "Therefore" principle; worked example (Romans 1–3); chapter/verse break warnings |
 | 4 | Translations | **Load-bearing wall #2** | "All translation is interpretation"; Translation Quick-Reference Table for contested Greek/Hebrew words; translation spectrum (formal ↔ dynamic ↔ paraphrase); the 1946 watershed |
-| 5 | Supersessionism: "Whose Bible Is This?" | **Load-bearing wall #3** | Root pattern for all interpretive appropriation (take → reinterpret → claim authority → dismiss → harm); Hebrew Bible vs. Christian OT (different names, order, canon, text traditions); Christological reading as valid-not-exclusive; three forms of supersessionism (hard, soft, non-supersessionist); "guests at the Jewish table" principle; Romans 9–11 (God has not rejected Israel) |
+| 5 | Supersession: Why the Hebrew Bible and Old Testament look so similar | **Load-bearing wall #3** | Root pattern for all interpretive appropriation (take → reinterpret → claim authority → dismiss → harm); Hebrew Bible vs. Christian OT (different names, order, canon, text traditions); Christological reading as valid-not-exclusive; three forms of supersessionism (hard, soft, non-supersessionist); "guests at the Jewish table" principle; Romans 9–11 (God has not rejected Israel) |
 
 ### Topic Chapters — Peoples & Identities (Chapters 6–9)
 
